@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 i am master
+=======
+cat is mwew
+>>>>>>> cat
