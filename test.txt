@@ -1,3 +1,7 @@
 first line
 second line
+<<<<<<< HEAD
 4th line
+=======
+3th line
+>>>>>>> dog
